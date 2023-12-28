@@ -1,0 +1,6 @@
+#ifndef FUSINTER_V3_LIBRARY_H
+#define FUSINTER_V3_LIBRARY_H
+
+void hello();
+
+#endif //FUSINTER_V3_LIBRARY_H
